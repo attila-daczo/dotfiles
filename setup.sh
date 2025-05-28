@@ -1,1 +1,3 @@
-sudo apt install git-gui -y
+#!/bin/bash
+
+ln -sf $(pwd)/.zshrc ~/.zshrc
